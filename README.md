@@ -10,7 +10,7 @@
   - Checks for Data Breach Exposure
     It securely checks whether the password has been compromised in any known data breaches, leveraging the Pwned Passwords service provided by Have I Been Pwned.
 ## Attachment
-  This project documentation comes with the accompanying script in python language.
+   This project documentation comes with the accompanying script in python language.
 ---
 ## Prerequisites
 - Python 3.x
