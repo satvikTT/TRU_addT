@@ -1,4 +1,4 @@
-# Additional Task- Password Strength Checker
+# Password Strength Checker
 ---
 ## Objective
   A simple yet effective Python tool to help users verify the strength of their passwords and check if they have appeared in known data breaches using the Have I Been Pwned API.
